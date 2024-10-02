@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Použití
 Skript potřebuje jeden název skriptu a dva argumenty na spuštění:  
-**Skript_name**: webscraping.py
+**Skript_name**: webscraping.py  
 **URL**: zvoleného okresu z webu volby.cz , např. "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=10&xnumnuts=6105"  
 **Output_filename**: název výstupního CSV souboru, např. "vysledky_ZR" 
 
