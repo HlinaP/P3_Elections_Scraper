@@ -7,8 +7,8 @@ voličů, vydané obálky, platné hlasy a počet získaných hlasů pro jednotl
 K tomu, aby skript správně fungoval je potřeba nainstalovat následující knihovny:
    - `requests`
    - `beautifulsoup4`
-   - `re`
    - `csv`
+   - `sys`
 
 Knihovny je možné snadno nainstalovat pomocí příkazu:
 ```  
